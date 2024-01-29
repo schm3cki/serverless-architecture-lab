@@ -47,6 +47,7 @@ namespace TollBooth
                 // COMPLETE: licensePlates = _client.CreateDocumentQuery ...
 
                 // TODO 6: Remove the line below.
+
             }
 
             exportedCount = licensePlates.Count();
